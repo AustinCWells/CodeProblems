@@ -1,3 +1,8 @@
+/*
+* Solution the the problem "Add all the even values of the 
+* fibonachi sequence from one to four million" from ProjectEuler.net
+*  PLEASE NOTE: this is only for self documenation purposes. 
+*/ 
 #include <cstdlib>
 #include <iostream> 
 
